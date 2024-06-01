@@ -8,7 +8,7 @@ A web application that showcases the latest movies, their IMDb ratings, trailers
 - **Search Functionality**: Enables users to search for movies by title.
 
 ## Live website
-https://movies-ridham.netlify.app
+Check Live demo of the website [Here](https://movies-ridham.netlify.app)
 
 ## Installation
 
